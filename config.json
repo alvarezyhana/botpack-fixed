@@ -24,13 +24,14 @@
     "gptauto.js",
     "gtpgo.js",
     "resend.js"
+    "thread.js"
   ],
   "eventDisabled": [],
-  "OWNER": "OWNER OF BOT",
-  "BOTNAME": "BOTNAME HERE",
-  "PREFIX": "?",
+  "OWNER": "Alvarez yhana",
+  "BOTNAME": "Aeron Ai",
+  "PREFIX": "-",
   "ADMINBOT": [
-    "UID HERE ADMIN",
+    "61564459952029",
     ""
   ],
   "DESIGN": {
